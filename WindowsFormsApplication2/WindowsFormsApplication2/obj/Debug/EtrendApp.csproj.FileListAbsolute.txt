@@ -1,0 +1,33 @@
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.csprojResolveAssemblyReference.cache
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.FoForm.resources
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.csproj.GenerateResource.Cache
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.RendelesForm.resources
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.EtrendApp.Formok.VeglegesitesForm.resources
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.csprojResolveAssemblyReference.cache
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.FoForm.resources
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.RendelesForm.resources
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.VeglegesitesForm.resources
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.csproj.GenerateResource.Cache
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\MCSUHU\Downloads\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.csprojResolveAssemblyReference.cache
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.FoForm.resources
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.RendelesForm.resources
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.Formok.VeglegesitesForm.resources
+C:\Users\MCSUHU\Downloads\feladat (3)\feladat (2)\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\EtrendApp.csproj.GenerateResource.Cache

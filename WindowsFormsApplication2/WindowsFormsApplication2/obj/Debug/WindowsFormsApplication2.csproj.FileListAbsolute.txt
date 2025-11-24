@@ -1,0 +1,2 @@
+c:\users\mcsuhu\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\MCSUHU\Downloads\feladat\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
